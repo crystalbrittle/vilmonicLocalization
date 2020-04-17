@@ -1,0 +1,1006 @@
+{
+  "help_en.html": "TRANSLATION_HERE",
+
+
+  //~ v1.5
+  //~ -- -- -- -- --
+
+  // creature cards
+  "Load Creature Cards":  "TRANSLATION_HERE",
+  "The Creature Card was saved to your photo library!": "TRANSLATION_HERE",
+  "Save Creature Cards to your photo library.": "TRANSLATION_HERE",
+  "Load Creature Cards from your photo library.": "TRANSLATION_HERE",
+  "NSPhotoLibraryAddUsageDescription": "Save Creature Cards to your photo library.",
+  "NSPhotoLibraryUsageDescription": "Load Creature Cards from your photo library.",
+
+  "The photo was saved to your photo library!": "TRANSLATION_HERE",
+
+  "<h2>:-(</h2>There was a problem saving that image!": "TRANSLATION_HERE",
+  "Export": "TRANSLATION_HERE",
+
+  "My device can handle it!": "TRANSLATION_HERE",
+  "Let me reconsider...": "TRANSLATION_HERE",
+
+  // "Vilmonicouncil" here is a conjunction of "Vilmonic" and "council", this is a sci-fi sounding
+  // name for the secret organization that runs the world of Vilmonic
+  "Large worlds can be very taxing on CPUs and memory. Islands larger than 99x99 (or equivalent) are not recommended or encouraged by the Vilmonicouncil.": "TRANSLATION_HERE",
+
+  "Restore Purchases": "TRANSLATION_HERE",
+  "Includes: Bryckment, Crystalyne, Fiberoyd, Granityte, and Dungeon walls and floors, Doors, Pools, Chairs, Tables, Chests, Flags, and Roads!": "TRANSLATION_HERE",
+  "Includes: Fancy Shovel, Sledgehammer, Fancy Axe, Dirt Bomb, Water Bomb, Burger, Pure Liquidium, Revolt! Soda, Crush! Soft Drink, Bust! Energy Drink, Bubbles, and the Camera!": "TRANSLATION_HERE",
+
+  "Remove <b>\"%s\"</b>, are you certain?": "TRANSLATION_HERE",
+
+
+  //~ mobile v.1
+  //~ -- -- -- -- --
+
+  // max 30 characters
+  "Vilmonic - Evolve Pixel Life": "TRANSLATION_HERE",
+  // max 30 characters
+  "Breed Species & Craft a World": "TRANSLATION_HERE",
+
+  // Discord is where the Vilmonic community discusses the game
+  // https://discord.gg/vilmonic
+  "Join the Discord!": "TRANSLATION_HERE",
+
+  // in-app store & purchases
+  "Shop": "TRANSLATION_HERE",
+  "Get More Recipes…": "TRANSLATION_HERE",
+  "Purchased!": "TRANSLATION_HERE",
+
+  // max 30 characters
+  "Large Maps": "TRANSLATION_HERE",
+  // max 45 characters
+  "Worlds up to and larger than 99x99 tiles.": "TRANSLATION_HERE",
+  // max 30 characters
+  "Architect Recipes": "TRANSLATION_HERE",
+  // max 45 characters
+  "Construction materials, furniture and roads!": "TRANSLATION_HERE",
+  // max 30 characters
+  "Tool User Recipes": "TRANSLATION_HERE",
+  // max 45 characters
+  "Tools, beverages, food, and gadgets!": "TRANSLATION_HERE",
+
+  "<h2>:-(</h2>There was a problem Refreshing Purchases.":"TRANSLATION_HERE",
+
+  // add-ons and DLC
+  "Vilmonic Add-Ons!": "TRANSLATION_HERE",
+  "Add-ons": "TRANSLATION_HERE",
+  "Import Add-On:": "TRANSLATION_HERE",
+  "Import": "TRANSLATION_HERE",
+  "Export All...": "TRANSLATION_HERE",
+  "Add-on \"%s\" loaded! You should probably restart Vilmonic now.": "TRANSLATION_HERE",
+
+  // this is supposed to sound sci-fi, computer-like
+  // "vilmodule symbols" means something like "computer (code) symbols for an add-on"
+  // "vilmonimod" is a conjunction of "Vilmonic" and "module" or "modifier"
+  // feel free to keep these in "English" if it makes sense to
+  "Paste here below a series of vilmodule symbols to activate a vilmonimod:": "TRANSLATION_HERE",
+  
+  // Mata is the name of a new life form based on cellular automata i.e. autoMATA
+  "Mata bomb<p>Use with caution.</p>": "TRANSLATION_HERE",
+  "Mata, Experimental Life Form": "TRANSLATION_HERE",
+  "Evolving cellular automata bubble creature": "TRANSLATION_HERE",
+
+
+
+
+
+  //~ 1.00.10 NEW!
+  //~ -- -- -- -- --
+
+  // addons (or add-ons) are what I'm calling the upcoming downloadable
+  // content that players will be able to add to their game:
+  "There was a problem loading that add-on!": "TRANSLATION_HERE",
+  // this is to override the "W,A,S,D" keys used to move your avatar:
+  "Movement Keys": "TRANSLATION_HERE",
+  // space is limited
+  "chromategory": "TRANSLATION_HERE",
+  // this is a new setting to lower the frame rate (from 60fps to 18) 
+  // to help speed the game up on older computers
+  "Skip Frames": "TRANSLATION_HERE",
+  "This can help speed the game up on older devices.": "TRANSLATION_HERE",
+
+
+
+
+  // unused
+  "Get a camera to Export and Share life forms!": "TRANSLATION_HERE",
+
+
+
+
+  // 0.30.52
+
+  "GMO-": "TRANSLATION_HERE",
+
+  "<h3>Now you are ready to continue on your own.</h3> Open your <b>Notepad</b> to view your new <b>tasks</b>. You'll be awarded <b>badges</b> for completing them. <br><br><b>Explore</b> your world, dig up treasure from the ancient past. Much of it is useful, but some of it is probably just junk. <br><br><b>Observe</b> the environment and its creatures. Pay attention and you will be able to learn the hidden rules of the world. <br><br><b>Experiment</b> with your tools. Try them out on everything. Some effects will surprise you! Set up controlled scientific experiments. Modify your world and the conditions for life. <br><br>You get the idea, good luck!": "TRANSLATION_HERE",
+
+
+  // 0.30.50
+
+
+  //These are used to describe colors of fungs and anims "Red fungols"
+  "red":"TRANSLATION_HERE",
+  "orange":"TRANSLATION_HERE",
+  "yellow":"TRANSLATION_HERE",
+  "green":"TRANSLATION_HERE",
+  "blue":"TRANSLATION_HERE",
+  "purple":"TRANSLATION_HERE",
+  "brown": "TRANSLATION_HERE",
+  "white": "TRANSLATION_HERE",
+  "gray": "TRANSLATION_HERE",
+  "any color":"TRANSLATION_HERE",
+
+
+  "Export All/Import...": "TRANSLATION_HERE",
+  "Exporting all saves may take a while...": "TRANSLATION_HERE",
+
+  // "I will!" is the player's response 
+  "<img src='%s'><h2>Oh no!</h2> Your last animatroid just died. <br><br>Another one is on its way. Please be more careful this time! >>> I will!": "TRANSLATION_HERE",
+  "I will!": "TRANSLATION_HERE",
+
+
+  "Extract/Inject": "TRANSLATION_HERE",
+
+  // "age" is the age of an animatroid (in seconds, but 
+  // I don't display any time units)
+  "age": "TRANSLATION_HERE",
+  
+  // for exporting an image of your anim to share with friends
+  "Export and Share": "TRANSLATION_HERE",
+
+  // pseudoextinctions is a scientific concept where a 
+  // parent species goes extinct, but its child species
+  // are still living (so the parent species is not *really*
+  // extinct), for example, dinosaurs/birds.
+  // 
+  "pseudoextinctions": "TRANSLATION_HERE",
+
+  // anim's neural-net brains and sensors:
+  "brain": "TRANSLATION_HERE",
+  "hunger": "TRANSLATION_HERE",
+  "stress": "TRANSLATION_HERE",
+  "thirst": "TRANSLATION_HERE",
+  "motion": "TRANSLATION_HERE",
+  "scent": "TRANSLATION_HERE",
+  "water": "TRANSLATION_HERE",
+
+  "Species": "TRANSLATION_HERE",
+
+  // diet is "carnivore" "omnivore" "herbivore"
+  "diet": "TRANSLATION_HERE",
+  "carnivore": "TRANSLATION_HERE",
+  "omnivore": "TRANSLATION_HERE",
+  "herbivore": "TRANSLATION_HERE",
+
+  // Liquidium is the game's word for "water"
+  // it is a made-up word that is supposed to be a water-like 
+  // element in the alternate universe of Vilmonic. (Like the other 
+  // made-up elements: Granityte, Mineryte, Bryckment, Fiberoyd, Crystalyne, 
+  // Asphaltyne) In this case it's a combination of "liquid" and the ending 
+  // from some the word "uranium" to make it sound like an element. 
+
+  "Liquidium<p>A useful crafting material.</p>": "TRANSLATION_HERE",
+  "Pure Liquidium<p>Refresh and restore.</p>": "TRANSLATION_HERE",
+  "Granityte rocks<p>These can be placed on the ground to build natural walls.</p>": "TRANSLATION_HERE",
+  "Mineryte soil<p>A useful crafting material.</p>": "TRANSLATION_HERE",
+  "Mineryte blocks<p>These can be placed on the ground to build walls.</p>": "TRANSLATION_HERE",
+  "Bryckment blocks<p>These can be placed on the ground to build walls.</p>": "TRANSLATION_HERE",
+  "Fiberoyd boards<p>These can be placed on the ground to build fences.</p>": "TRANSLATION_HERE",
+  "Crystalyne blocks<p>These make great windows.</p>": "TRANSLATION_HERE",
+  "A Crystalyne gems": "TRANSLATION_HERE",
+  "Mineryte floor<p>Zombs love these.</p>": "TRANSLATION_HERE",
+  "Bryckment floor<p>Zombs hate them.</p>": "TRANSLATION_HERE",
+  "Asphaltyne road<p>Eases long distance travel.</p>": "TRANSLATION_HERE",
+  "Fiberoyd blocks<p>These can be placed on the ground to build walls.</p>": "TRANSLATION_HERE",
+  "Fiberoyd floor<p>Zombs hate them.</p>": "TRANSLATION_HERE",
+
+
+
+  // mobility refers to the anim's speed
+  "mobility": "TRANSLATION_HERE",
+  "lifespan": "TRANSLATION_HERE",
+  "toxicity": "TRANSLATION_HERE",
+
+  // statues will allow players to save their avatar's look
+  // Statues are made from Granityte rocks.
+  "Statue<p>Use this to immortalize yourself.</p>": "TRANSLATION_HERE",
+
+  // 0.28
+
+  "Use": "TRANSLATION_HERE",
+  "Bubbles<p>Blow some bubbles. Zombs love them!</p>": "TRANSLATION_HERE",
+  "Chest": "TRANSLATION_HERE",
+  "A chest<p>Store stuff in it. Empty it and smash it to fit it in your inventory again.</p>": "TRANSLATION_HERE",
+  "Full Screen": "TRANSLATION_HERE",
+
+  "Carpeted floor": "TRANSLATION_HERE",
+  "A fountain": "TRANSLATION_HERE",
+  "Ice blocks<p>These can be placed on the ground to build walls.</p>": "TRANSLATION_HERE",
+  "Snow": "TRANSLATION_HERE",
+  "A fireplace": "TRANSLATION_HERE",
+  "A planter": "TRANSLATION_HERE",
+  "A storage bin": "TRANSLATION_HERE",
+
+  "Energy Bar<p>A delicious snack.</p>": "TRANSLATION_HERE",
+
+  "A wrench<p>Use this to modify stuff.</p>": "TRANSLATION_HERE",
+
+  // 0.27
+
+  "Connecting to Steam...":"TRANSLATION_HERE",
+  
+  // The flag is on a short pole, and you stick it in the ground to 
+  // mark an area of interest. Or you could use one for decoration, 
+  // like in front of a government building, etc.
+  "A flag":"TRANSLATION_HERE",
+  "An egg":"TRANSLATION_HERE",
+  "Syringe<p>Use this to extract or inject DNA!</p>":"TRANSLATION_HERE",
+  "Extract":"TRANSLATION_HERE",
+  "Inject":"TRANSLATION_HERE",
+  "Table":"TRANSLATION_HERE",
+  "A Chair<p>Not entirely useful. Tap it with a hammer to rotate it.</p>":"TRANSLATION_HERE",
+  "Nice chair! But who has time to sit around anymore? <tip>You can rotate chairs to face any direction by tapping them with a hammer.</tip> >>> Sounds good.":"TRANSLATION_HERE",
+  "A table<p>Store stuff in its drawer. Empty it and smash it to fit it in your inventory again.</p>":"TRANSLATION_HERE",
+  "Nice table! Goes great with chairs. <tip>Select the table using the <b>hand tool</b> to make it movable. Smash it while it's empty to fit it in your inventory.</tip> >>> OK, I think I got it.":"TRANSLATION_HERE",
+  "Dungeon blocks<p>These can be placed on the ground to build dungeon walls.</p>":"TRANSLATION_HERE",
+  "Dungeon floor<p>Zombs love these.</p>":"TRANSLATION_HERE",
+  "Toxic soil<p>A dangerous crafting material.</p>":"TRANSLATION_HERE",
+  "perception":"TRANSLATION_HERE",
+  "There was a problem loading the save game \"<b>%s</b>\", The save data may be corrupt or from an incompatible earlier version. <p>Try loading another game or starting a new one.</p>":"TRANSLATION_HERE",
+
+  // these just flash by quickly as a status of the current mood of a zomb
+  // They show up for no more than a second at a time, 
+  // like a malfunctioning computer display.
+  "Aggravated,Amused,Angry,Annoyed,Anxious,Apathetic,Bewildered,Blissful,Bouncy,Calm,Cheerful,Complacent,Confused,Content,Cranky,Crappy,Crazy,Curious,Cynical,Depressed,Devious,Disappointed,Discontent,Ditzy,Dreamy,Ecstatic,Energetic,Enraged,Enthralled,Envious,Excited,Flirty,Frustrated,Giddy,Giggly,Gloomy,Good,Grateful,Grumpy,Guilty,Happy,High,Hopeful,Impressed,Indifferent,Infuriated,Irate,Irritated,Jealous,Joyful,Jubilant,Lazy,Lethargic,Listless,Lonely,Loved,Mad,Melancholy,Mellow,Mischievous,Moody,Mournful,Numb,Optimistic,Peaceful,Pessimistic,Pleased,Rejected,Rejuvenated,Relaxed,Relieved,Restless,Sad,Satisfied,Shocked,Silly,Smart,Stressed,Surprised,Sympathetic,Thankful,Uncomfortable,Weird": "TRANSLATION_HERE",
+
+  "Error,Malfunction,Problem,Warning,Virus,Trojan,Fault,Failure,Defect": "TRANSLATION_HERE",
+
+  // 
+  "aggression":"TRANSLATION_HERE",
+  "boredom":"TRANSLATION_HERE",
+  // as in a model number/ series of some hardware or product
+  "model":"TRANSLATION_HERE",
+  "series":"TRANSLATION_HERE",
+  "sensor":"TRANSLATION_HERE",
+  "target":"TRANSLATION_HERE",
+  // home is the location tile that the zomb moves toward
+  "home":"TRANSLATION_HERE",
+  // lon = longitude, lat = latitude 
+  "lon %s, lat %s":"TRANSLATION_HERE",
+
+  // 0.26
+
+  // cameras and photos
+  "A camera<p>Take a picture, it'll last longer.</p>": "TRANSLATION_HERE",
+  "A photo": "TRANSLATION_HERE",
+  "Photo": "TRANSLATION_HERE",
+  "Photos": "TRANSLATION_HERE",
+  "Destroy it!": "TRANSLATION_HERE",
+  "Destroy": "TRANSLATION_HERE",
+  "Are you sure you want to destroy this lovely photo?": "TRANSLATION_HERE",
+  "You haven't added any photos yet.": "TRANSLATION_HERE",
+  "View it": "TRANSLATION_HERE",
+  "Vilmonic Pic": "TRANSLATION_HERE",
+  "Save to Notepad": "TRANSLATION_HERE",
+  // as in  "Snap a picture" 
+  "Snap": "TRANSLATION_HERE",
+
+  "Download": "TRANSLATION_HERE",
+  "Eat": "TRANSLATION_HERE",
+  "Export...": "TRANSLATION_HERE",
+
+  "Binoculars<p>Analyze the life forms around you.</p>": "TRANSLATION_HERE",
+  "Credits & Licenses": "TRANSLATION_HERE",
+
+  // "Fungiburger" is just a play on "Vegiburger" 
+  // and is a hamburger made using the fungi in the game.
+  "Fungiburger<p>A nutritious snack.</p>": "TRANSLATION_HERE",
+
+  "ideal": "TRANSLATION_HERE",
+  "overhydration": "TRANSLATION_HERE",
+  "spores": "TRANSLATION_HERE",
+
+  // tooltips
+
+  "Disabling this can improve the frame rate on slower devices.":"TRANSLATION_HERE",
+  "Sub-Pixel Animation":"TRANSLATION_HERE",
+  "Play/Pause":"TRANSLATION_HERE",
+  "Your health": "TRANSLATION_HERE",
+  "Toggle full screen mode": "TRANSLATION_HERE",
+  "A handy axe<p>Can be used to chop things down.</p>": "TRANSLATION_HERE",
+  "A fancy axe<p>Can be used to chop things down with ease.</p>": "TRANSLATION_HERE",
+  "A small hammer<p>Use this to smash stuff.</p>": "TRANSLATION_HERE",
+  "A sledgehammer<p>Use this to demolish walls and things.</p>": "TRANSLATION_HERE",
+  "A shovel<p>Great for digging things up. Can also be used to bury things.</p>": "TRANSLATION_HERE",
+  "A trowel<p>This small shovel is great for gardening.</p>": "TRANSLATION_HERE",
+  "A fancy shovel<p>Great for digging deep ditches and channels.</p>": "TRANSLATION_HERE",
+  
+  "Some red fungols": "TRANSLATION_HERE",
+  "Some orange fungols": "TRANSLATION_HERE",
+  "Some yellow fungols": "TRANSLATION_HERE",
+  "Some green fungols": "TRANSLATION_HERE",
+  "Some blue fungols": "TRANSLATION_HERE",
+  "Some purple fungols": "TRANSLATION_HERE",
+  "Some white fungols": "TRANSLATION_HERE",
+  "Some gray fungols": "TRANSLATION_HERE",
+  "Some brown fungols": "TRANSLATION_HERE",
+  "Some fungols": "TRANSLATION_HERE",
+
+  "A crate<p>Store stuff in it. Empty it and smash it to fit it in your inventory again.</p>": "TRANSLATION_HERE",
+  "A pool<p>Zombs really hate them.</p>": "TRANSLATION_HERE",
+  "Move somewhere<p>You'll swap places with stuff that's in your way.</p>": "TRANSLATION_HERE",
+  "Use your hands<p>Grab things, push things, open and close things.</p>": "TRANSLATION_HERE",
+  "Microscope<p>Analyze the life forms around you.</p>": "TRANSLATION_HERE",
+  "Dirt bomb<p>Great for landscaping.</p>": "TRANSLATION_HERE",
+  "Water bomb<p>Use this to make some lakes.</p>": "TRANSLATION_HERE",
+  "Water bottle<p>There sure are a lot of these. Fill them up with tasty beverages.</p>": "TRANSLATION_HERE",
+
+  // Cola is a brandless soda resembling Coca-Cola
+  "Cola":"TRANSLATION_HERE",
+  "Cola<p>Drink this to speed things up, or feed it to your anims.</p>": "TRANSLATION_HERE",
+  "Revolt! Soda":"TRANSLATION_HERE",
+  "Revolt! Soda<p>Drinking this may make you unpopular.</p>": "TRANSLATION_HERE",
+  "Crush! Soft Drink<p>Taste the love.</p>": "TRANSLATION_HERE",
+  "Bust! Energy Drink<p>Feel the power!</p>": "TRANSLATION_HERE",
+  "Dr. Up Energy Drink":"TRANSLATION_HERE",
+  "Urge Soda": "TRANSLATION_HERE",
+
+
+  "Junk<p>Not too useful, just bury it again if you don't want it.</p>": "TRANSLATION_HERE",
+  "A book<p>This ancient tome is filled with nonsense.</p>": "TRANSLATION_HERE",
+  "Door<p>You'll need to place doors between two walls for them to work.</p>": "TRANSLATION_HERE",
+  "Gate<p>You'll need to place gates between two fences for them to work.</p>": "TRANSLATION_HERE",
+
+
+  // == == == == ==
+  // NOTE: these requre some more explaination... 
+  // Species description text is auto-generated.
+  // 
+  // Essentially the sentence is built up from fragments, 
+  // with a main sentence template and different options 
+  // that get "plugged in" to it.
+  // 
+  // The game selects one of each 
+  // HABITAT, SENSOR, METABO, HYDRO/ENVIRONMENT,
+  // AGGRO, FASTORSLOW, DISTRO, MEDICINAL
+  // and inserts them into the template sentence.
+  //
+  // So the only trick is to make sure the final sentence will be 
+  // grammatically correct when the puzzle pieces are in place. 
+  // We can definitely re-arrange the template sentence if needed.
+  // 
+  // I'm assuming that SPECIES NAME ( #{species} ) needs no translation 
+  // since they are made-up latin-ish names (or am I wrong??) ). 
+
+
+  // anims TEMPLATE
+  "#{species} is a species of #{habitat} animatroid with #{sensor} and #{metabo}. Individuals prefer #{hydro} and #{aggro}.":"TRANSLATION_HERE",
+
+  // fungs TEMPLATES
+  "#{species} is a species of fungolite that prefers #{environment}. Individuals reproduce #{fastOrSlow} due to their #{metabo} and #{distro}. #{medicinal}":"TRANSLATION_HERE",
+  "#{species} is a species of fungolite that prefers #{environment}. Individuals reproduce #{fastOrSlow} due to their #{metabo}. #{medicinal}":"TRANSLATION_HERE",
+  "#{species} is a species of fungolite that prefers #{environment}. Individuals reproduce #{fastOrSlow} due to their #{distro}. #{medicinal}":"TRANSLATION_HERE",
+
+  // these plug in to the templates
+
+  // #{habitat}
+  "terrestrial":"TRANSLATION_HERE",
+  "amphibious":"TRANSLATION_HERE",
+  "aquatic":"TRANSLATION_HERE",
+
+  // #{sensor}
+  "almost no sensory perception":"TRANSLATION_HERE",
+  "poor sensory perception":"TRANSLATION_HERE",
+  "moderate sensory perception":"TRANSLATION_HERE",
+  "good sensory perception":"TRANSLATION_HERE",
+  "very good sensory perception":"TRANSLATION_HERE",
+  "perfect sensory perception":"TRANSLATION_HERE",
+
+  // #{metabo} for anims
+  "an extremely slow metabolism":"TRANSLATION_HERE",
+  "a slow metabolism":"TRANSLATION_HERE",
+  "a fairly slow metabolism":"TRANSLATION_HERE",
+  "a somewhat fast metabolism":"TRANSLATION_HERE",
+  "a fast metabolism":"TRANSLATION_HERE",
+  "an extremely fast metabolism":"TRANSLATION_HERE",
+
+  // #{metabo} for fungs
+  "extremely slow metabolism":"TRANSLATION_HERE",
+  "slow metabolism":"TRANSLATION_HERE",
+  "fairly slow metabolism":"TRANSLATION_HERE",
+  "somewhat fast metabolism":"TRANSLATION_HERE",
+  "fast metabolism":"TRANSLATION_HERE",
+  "extremely fast metabolism":"TRANSLATION_HERE",
+
+  // #{hydro} & #{environment}
+  "a very dry environment":"TRANSLATION_HERE",
+  "a dry environment":"TRANSLATION_HERE",
+  "a moderately dry environment": "TRANSLATION_HERE",
+  "a moderately wet environment": "TRANSLATION_HERE",
+  "a wet environment":"TRANSLATION_HERE",
+  "a very wet environment":"TRANSLATION_HERE",
+
+  // #{aggro}
+  "are generally passive":"TRANSLATION_HERE",
+  "are rarely aggressive":"TRANSLATION_HERE",
+  "can be aggressive":"TRANSLATION_HERE",
+  "are aggressive":"TRANSLATION_HERE",
+  "are highly aggressive":"TRANSLATION_HERE",
+
+  // #{fastOrSlow}
+  "very slowly":"TRANSLATION_HERE",
+  "slowly":"TRANSLATION_HERE",
+  "rapidly":"TRANSLATION_HERE",
+  "very rapidly":"TRANSLATION_HERE",
+
+  // #{distro}
+  "low spore production":"TRANSLATION_HERE",
+  "moderate spore production":"TRANSLATION_HERE",
+  "high spore production":"TRANSLATION_HERE",
+
+  // #{medicinal}
+  // this line means that the fung can be used as a crafting ingredient,
+  // for example, to make beverages, or fences, etc.
+  "This species has industrial uses.":"TRANSLATION_HERE",
+
+  // == == == == ==
+
+
+
+  // GENES for physiology 
+  // (body growth and biological functions)
+  //
+  // "bendo" and "flexo" are two genes that do the same thing, 
+  // determine how certain bones in the body grow and bend. 
+  // They could have been called "bendo1" and bendo2", 
+  // I just chose a synonym and added the "o" to the end as is 
+  // my convention for gene names in the world of Vilmonic.
+
+  // metabolism
+  "metabo":"TRANSLATION_HERE",
+  // size i.e. "massive"
+  "masso":"TRANSLATION_HERE",
+  // leg size
+  "lego":"TRANSLATION_HERE",
+  // sensors or eyesight
+  "senso":"TRANSLATION_HERE",
+  // hydration
+  "hydro":"TRANSLATION_HERE",
+  // distribution
+  "distro":"TRANSLATION_HERE",
+  // how the internal bones/branches bend
+  "bendo": "TRANSLATION_HERE",
+  // how the internal bones/branches flex
+  "flexo": "TRANSLATION_HERE",
+  
+  // brain GENES
+  // "motion" refers to the anim's sense that detects 
+  // motion (of other anims or zombs)
+  // the same goes for "scent" 
+  // (ability to detect scent, i.e. sense of smell)
+  // and "water" is the ability to detect water or hydration.
+
+  // MOtion to Hunger (with 'o added to each),
+  "moho": "TRANSLATION_HERE",
+  // MOtion to STRess
+  "mostro": "TRANSLATION_HERE",
+  // MOtion to THirst
+  "motho": "TRANSLATION_HERE",
+  // SCEnt to Hunger
+  "sceho": "TRANSLATION_HERE",
+  // SCEnt to STRess
+  "scestro": "TRANSLATION_HERE",
+  // SCEnt to THirst
+  "scetho": "TRANSLATION_HERE",
+  // WAter to Hunger
+  "waho": "TRANSLATION_HERE",
+  // WAter to STRess
+  "wastro": "TRANSLATION_HERE",
+  // WAter to THirst
+  "watho": "TRANSLATION_HERE",
+
+  // zomb genes
+
+  // hair or "wig" 
+  "wiggo":"TRANSLATION_HERE",
+  // head
+  "heddo":"TRANSLATION_HERE",
+  // body
+  "boddo":"TRANSLATION_HERE",
+  // pants
+  "panto":"TRANSLATION_HERE",
+  // brain or "noodle" which is old slang for brain
+  "noodo":"TRANSLATION_HERE",
+
+  // gene names abbreviations
+  "ma": "TRANSLATION_HERE", // masso
+  "me": "TRANSLATION_HERE", // metabo
+  "be": "TRANSLATION_HERE", // bendo
+  "fl": "TRANSLATION_HERE", // flexo
+  "le": "TRANSLATION_HERE", // lego
+  "se": "TRANSLATION_HERE", // senso
+  "wi": "TRANSLATION_HERE", // wiggo
+  "he": "TRANSLATION_HERE", // heddo
+  "bo": "TRANSLATION_HERE", // boddo
+  "pa": "TRANSLATION_HERE", // panto
+  "no": "TRANSLATION_HERE", // noodo
+  "di": "TRANSLATION_HERE", // distro
+  "hy": "TRANSLATION_HERE", // hydro
+
+  // these abbreviations are different -
+  // for example, moho is abbreviated to "mt"
+  // because it really stands for "motion/thirst"
+  "mh": "TRANSLATION_HERE", // moho:    MOtion/Hunger
+  "ms": "TRANSLATION_HERE", // mostro:  MOtion/Stress
+  "mt": "TRANSLATION_HERE", // motho:   MOtion/Thirst
+  "sh": "TRANSLATION_HERE", // sceho:   SCEnt/Hunger
+  "ss": "TRANSLATION_HERE", // scestro: SCEnt/Stress
+  "st": "TRANSLATION_HERE", // scetho:  SCEnt/Thirst
+  "wh": "TRANSLATION_HERE", // waho:    WAter/Hunger
+  "ws": "TRANSLATION_HERE", // wastro:  WAter/Stress
+  "wt": "TRANSLATION_HERE", // watho:   WAter/Thirst
+
+  // anim moods/conditions
+  "tired": "TRANSLATION_HERE",
+  "sick":"TRANSLATION_HERE",
+  "hungry":"TRANSLATION_HERE",
+  "thirsty":"TRANSLATION_HERE",
+  "wet":"TRANSLATION_HERE",
+
+  "health":"TRANSLATION_HERE",
+  // "nutrition" here is a measure of satiation of anim
+  "nutrition":"TRANSLATION_HERE",
+  // "hydration" is how hydrated a life form is, 
+  // low hydration means very thirsty
+  "hydration":"TRANSLATION_HERE",
+  // how fertile an animatroid is
+  "fertility":"TRANSLATION_HERE",
+  // the age or physical development of the anim
+  "development":"TRANSLATION_HERE",
+  // a dose of radiation that an anim or fung has
+  "radiation":"TRANSLATION_HERE",
+
+  // used for offspring:none, dispersed:none
+  "none":"TRANSLATION_HERE",
+
+  // growth stage (development) of a fung
+  "stage":"TRANSLATION_HERE",
+  // nutrients in the soil vs how many nutrients the fung needs
+  "nutrients":"TRANSLATION_HERE",
+  // moisture in the soil vs how much moisture the fung needs
+  "moisture": "TRANSLATION_HERE",
+  // how ripe a fungol is, and how ready to reproduce it is
+  "ripeness":"TRANSLATION_HERE",
+
+  "New version":"TRANSLATION_HERE",
+
+  "Fiberoyd Boards":"TRANSLATION_HERE",
+  "Fence":"TRANSLATION_HERE",
+  "Mineryte Blocks":"TRANSLATION_HERE",
+  "Mineryte Floor":"TRANSLATION_HERE",
+  "Fiberoyd Wall":"TRANSLATION_HERE",
+  "Fiberoyd Floor":"TRANSLATION_HERE",
+  "Bryckment Wall":"TRANSLATION_HERE",
+  "Bryckment Floor":"TRANSLATION_HERE",
+  "Crystalyne Wall":"TRANSLATION_HERE",
+  "Gate":"TRANSLATION_HERE",
+  "Door":"TRANSLATION_HERE",
+  "Asphaltyne Road":"TRANSLATION_HERE",
+  "Pool":"TRANSLATION_HERE",
+  "Crate":"TRANSLATION_HERE",
+  "Trowel":"TRANSLATION_HERE",
+  "Shovel":"TRANSLATION_HERE",
+  "Super Shovel":"TRANSLATION_HERE",
+  "Hammer":"TRANSLATION_HERE",
+  "Sledgehammer":"TRANSLATION_HERE",
+  "Axe":"TRANSLATION_HERE",
+  "Super Axe":"TRANSLATION_HERE",
+  "Microscope":"TRANSLATION_HERE",
+  "Dirt Bomb":"TRANSLATION_HERE",
+  "Water Bomb":"TRANSLATION_HERE",
+  
+
+  "Dark Fiberoyd Wall": "TRANSLATION_HERE",
+  "Dark Fiberoyd Floor": "TRANSLATION_HERE",
+
+  "Dollhouse": "TRANSLATION_HERE",
+  "One Moment Please": "TRANSLATION_HERE",
+  "no saved games": "TRANSLATION_HERE",
+  "Dig": "TRANSLATION_HERE",
+  "Swing": "TRANSLATION_HERE",
+  "Drop": "TRANSLATION_HERE",
+  "Smash": "TRANSLATION_HERE",
+  "Demolish": "TRANSLATION_HERE",
+  "Chop": "TRANSLATION_HERE",
+  "Place": "TRANSLATION_HERE",
+  "Plant": "TRANSLATION_HERE",
+  "Build": "TRANSLATION_HERE",
+  "Analyze": "TRANSLATION_HERE",
+  "Detonate": "TRANSLATION_HERE",
+  "Drink": "TRANSLATION_HERE",
+  "Craft": "TRANSLATION_HERE",
+  "Version": "TRANSLATION_HERE",
+  "Continue": "TRANSLATION_HERE",
+  "New Game": "TRANSLATION_HERE",
+  "Load a Game": "TRANSLATION_HERE",
+  "Settings": "TRANSLATION_HERE",
+  "Exit": "TRANSLATION_HERE",
+  "Customize your connection to the world of Vilmonic.": "TRANSLATION_HERE",
+  "Done": "TRANSLATION_HERE",
+  "Cancel": "TRANSLATION_HERE",
+  "Game Pixel Scale <b>(%s-%sx)</b>": "TRANSLATION_HERE",
+  "Interface Pixel Scale <b>(%s-%sx)</b>": "TRANSLATION_HERE",
+  "View Size <b>(5-20 Tiles)</b>": "TRANSLATION_HERE",
+  "Sound Effects Volume": "TRANSLATION_HERE",
+  "Music Volume": "TRANSLATION_HERE",
+  "Load Game": "TRANSLATION_HERE",
+  "Load an existing saved game to continue the enjoyment of a previous state of the world as it existed then.": "TRANSLATION_HERE",
+  "Load": "TRANSLATION_HERE",
+  "(type a name)": "TRANSLATION_HERE",
+  "Define the attributes of a brand new world. With great size comes great responsibility, and cpu cycles.": "TRANSLATION_HERE",
+  "Create": "TRANSLATION_HERE",
+  "Name this game...": "Name this game",
+  "Small": "TRANSLATION_HERE",
+  "Medium": "TRANSLATION_HERE",
+  "Large": "TRANSLATION_HERE",
+  "Tutorial is ON": "TRANSLATION_HERE",
+  "Tutorial is OFF": "TRANSLATION_HERE",
+
+
+  //    * *   * * *  *   *  *  * * *  *   *  * * *  *   *  * * *   *  *  * * *  * * *  
+  //   *   *  *      *   *  *  *      *   *  *      * * *  *      * * *    *    *      
+  //   * * *  *      * * *  *  * * *  *   *  * * *  * * *  * * *  * * *    *    * * *  
+  //   *   *  *      *   *  *  *       * *   *      *   *  *      * * *    *        *  
+  //   *   *  * * *  *   *  *  * * *    *    * * *  *   *  * * *  *  *     *    * * *  
+
+  // these are achievements that players earn after completing tasks
+
+  "Advanced Novice": "TRANSLATION_HERE",
+  "Complete the tutorial.": "TRANSLATION_HERE",
+  "completed the tutorial": "TRANSLATION_HERE",
+  "Congratulations, you've got a new badge! You are officially no longer a complete novice. <tip>Open your <b>Notepad</b> from the <b>toolbar</b> to view all of your badges.</tip> >>> That was easy!": "TRANSLATION_HERE",
+
+  "Explorer": "TRANSLATION_HERE",
+  "Walk a great distance.": "TRANSLATION_HERE",
+  "those legs are working great": "TRANSLATION_HERE",
+  "Congratulations, you've got a new badge! Those legs are really working out. >>> Truly.": "TRANSLATION_HERE",
+
+  "Evolver": "TRANSLATION_HERE",
+  "Evolve a new species.": "TRANSLATION_HERE",
+  "evolved a new species": "TRANSLATION_HERE",
+  "You've evolved your first new species: <i>%s.</i> >>> Astounding!": "TRANSLATION_HERE",
+
+  "Creative Reuser": "TRANSLATION_HERE",
+  "Spread some toxic waste around.": "TRANSLATION_HERE",
+  "spread some toxic waste": "TRANSLATION_HERE",
+  "That's some dangerous stuff, be careful! Here's your new badge. >>> Radical!": "TRANSLATION_HERE",
+
+  "Harvester": "TRANSLATION_HERE",
+  "Dig up a lot of fungols.": "TRANSLATION_HERE",
+  "dug up a lot of fungols": "TRANSLATION_HERE",
+  "You sure love to get your hands dirty! Here's your new badge. >>> Thanks.": "TRANSLATION_HERE",
+
+  "Handy": "TRANSLATION_HERE",
+  "Build a bunch of stuff.": "TRANSLATION_HERE",
+  "built a bunch of stuff": "TRANSLATION_HERE",
+  "Build build build! Craft craft craft! The world is your workshop. >>> Sure.": "TRANSLATION_HERE",
+
+  "Fabricator": "TRANSLATION_HERE",
+  "Make one of everything.": "TRANSLATION_HERE",
+  "made one of everything": "TRANSLATION_HERE",
+  "You need it all! Or at least one of everything. Take this badge! >>> Thank you!": "TRANSLATION_HERE",
+
+  // collector of rare antiques/ancient tech
+  "Antiquarian": "TRANSLATION_HERE",
+  "Find the rarest ancient treasures.": "TRANSLATION_HERE",
+  "found the rarest ancient treasures": "TRANSLATION_HERE",
+
+  // "Bevrologist" is a made-up word, a combination of "beverage" 
+  // and the sciency-sounding suffix "-ologist" as in "ecologist"
+  "Bevrologist": "TRANSLATION_HERE",
+  "Make one of each kind of drink.": "TRANSLATION_HERE",
+  "made one of each kind of drink": "TRANSLATION_HERE",
+
+  // "Bevromancer" is a made-up word, a combination of "beverage" 
+  // and the wizardy-sounding suffix "-mancer" as in "necromancer"
+  "Bevromancer": "TRANSLATION_HERE",
+  "Drink a lot of beverages.": "TRANSLATION_HERE",
+  "drank and drank and drank so many beverages": "TRANSLATION_HERE",
+
+  "Bottle Collector": "TRANSLATION_HERE",
+  "Collect many bottles.": "TRANSLATION_HERE",
+  "collected many bottles": "TRANSLATION_HERE",
+
+  "Bottle Enthusiast": "TRANSLATION_HERE",
+  "Collect many, many bottles.": "TRANSLATION_HERE",
+  "collected many, many bottles": "TRANSLATION_HERE",
+  
+  "Bottle Hoarder": "TRANSLATION_HERE",
+  "Collect way too many bottles.": "TRANSLATION_HERE",
+  "collected way too many bottles": "TRANSLATION_HERE",
+
+  // "Chromatist" is a made-up word, a combination of "chroma" (color) and "scientist"
+  // "chromategory" is a made-up word, a combination of "chroma" (color) and "category"
+  //
+  // the text "You need:" here gets filled out with the colors the player still needs
+  // for example:
+  // "Evolve fungols of each chromategory. You need: red, orange, yellow, green, blue, purple, brown, white, gray"
+  "Chromatist": "TRANSLATION_HERE",
+  "Evolve fungols of each chromategory. You need: <i>%s</i>.": "TRANSLATION_HERE",
+  "evolved fungols of each chromategory": "TRANSLATION_HERE",
+
+  // building dungeons for zombs, "Dungeon Mastermind" is a play on 
+  // the Dungeons & Dragons term "Dungeon Master"
+  "Zombiton Dungeoneer": "TRANSLATION_HERE",
+  "Build a zomb headquarters.": "TRANSLATION_HERE",
+  "built a zomb headquarters": "TRANSLATION_HERE",
+
+  "Dungeon Mastermind": "TRANSLATION_HERE",
+  "Build a significant dungeon.": "TRANSLATION_HERE",
+  "built a significant dungeon": "TRANSLATION_HERE",
+
+  // meant to sound like you become a wizard/conjurer
+  "Zombiton Summoner": "TRANSLATION_HERE",
+  "peacefully summoned the zombiton horde": "TRANSLATION_HERE",
+  "Peacefully summon the zombiton horde.": "TRANSLATION_HERE",
+
+  // these are somewhat made up words conveying someone who makes and 
+  // uses many roads in their game world
+  "Roady": "TRANSLATION_HERE",
+  "Build a bunch of roads.": "TRANSLATION_HERE",
+  "built a bunch of roads": "TRANSLATION_HERE",
+
+  "Highwayer": "TRANSLATION_HERE",
+  "Build a network of roads.": "TRANSLATION_HERE",
+  "built a network of roads": "TRANSLATION_HERE",
+
+  "Expresswayer": "TRANSLATION_HERE",
+  "Build a complex network of roads.": "TRANSLATION_HERE",
+  "built a complex network of roads": "TRANSLATION_HERE",
+
+  // changing your avatar's look
+  "Makeoverist": "TRANSLATION_HERE",
+  "Experiment with new looks.": "TRANSLATION_HERE",
+  "you love a good makeover": "TRANSLATION_HERE",
+
+  "Extreme Makeoverist": "TRANSLATION_HERE",
+  "Experiment with more new looks.": "TRANSLATION_HERE",
+  "you really love a good makeover": "TRANSLATION_HERE",
+
+  "Photographer": "TRANSLATION_HERE",
+  "Take lots of photos.": "TRANSLATION_HERE",
+  "took lots of photos": "TRANSLATION_HERE",
+
+  "Trash Collector": "TRANSLATION_HERE",
+  "Pick up trash.": "TRANSLATION_HERE",
+  "really helped clean up the place": "TRANSLATION_HERE",
+
+  "Junk Collector": "TRANSLATION_HERE",
+  "Collect lots of junk.": "TRANSLATION_HERE",
+  "collected lots of junk": "TRANSLATION_HERE",
+
+  "Farmer": "TRANSLATION_HERE",
+  "Plant fungols in dirt.": "TRANSLATION_HERE",
+  "farmed a lot of fungols": "TRANSLATION_HERE",
+
+  "Propagator": "TRANSLATION_HERE",
+  "Plant fungols all over the place.": "TRANSLATION_HERE",
+  "planted fungols all over the place": "TRANSLATION_HERE",
+
+  "Greenhouser": "TRANSLATION_HERE",
+  "Make a greenhouse.": "TRANSLATION_HERE",
+  "made a greenhouse": "TRANSLATION_HERE",
+
+  "Excavator": "TRANSLATION_HERE",
+  "Dig up tons of dirt.": "TRANSLATION_HERE",
+  "dug up tons of dirt": "TRANSLATION_HERE",
+
+  // "change the environment" here refers to changing much of the terrain
+  // from very dry (like tundra/desert) to very wet (like marsh)
+  // or vice versa
+  "Terraformer": "TRANSLATION_HERE",
+  "Completely change the environment.": "TRANSLATION_HERE",
+  "completely changed the environment": "TRANSLATION_HERE",
+
+  // "Ovocumulator" is a made-up word, a combination of "ovum" (or "ovo") and "accumulator"
+  // i.e. a collector of aggs
+  "Ovocumulator": "TRANSLATION_HERE",
+  "Collect lots of eggs.": "TRANSLATION_HERE",
+  "collected lots of eggs": "TRANSLATION_HERE",
+
+  // "Carnivolver" is a made-up word, a combination of "carnivore" and "evolver"
+  "Carnivolver": "TRANSLATION_HERE",
+  "Evolve a carnivore.": "TRANSLATION_HERE",
+  "evolved a carnivore": "TRANSLATION_HERE",
+  "You've evolved your first carnivore: <i>%s.</i> >>> Phenomenal!": "TRANSLATION_HERE",
+
+  // "Omnivolver" is a made-up word, a combination of "omnivore" and "evolver"
+  "Omnivolver": "TRANSLATION_HERE",
+  "Evolve an omnivore.": "TRANSLATION_HERE",
+  "evolved an omnivore": "TRANSLATION_HERE",
+  "You've evolved your first omnivore: <i>%s.</i> >>> Fascinating!": "TRANSLATION_HERE",
+
+  // "Massovolver" is a made-up word, a combination of "massive" and "evolver"
+  "Massovolver": "TRANSLATION_HERE",
+  "Evolve a large animatroid.": "TRANSLATION_HERE",
+  "evolved a large animatroid": "TRANSLATION_HERE",
+  "You've evolved your first large animatroid: <i>%s.</i> >>> Tremendous!": "TRANSLATION_HERE",
+
+  // "Microvolver" is a made-up word, a combination of "micro" and "evolver"
+  "Microvolver": "TRANSLATION_HERE",
+  "Evolve a tiny animatroid.": "TRANSLATION_HERE",
+  "evolved a tiny animatroid": "TRANSLATION_HERE",
+  "You've evolved your first tiny animatroid: <i>%s.</i> >>> Marvelous!": "TRANSLATION_HERE",
+
+  // "Fungo-Temperatist" is a made-up word, 
+  // a combination of "fungus" and "temperate" (climate) and "scientist"
+  "Fungo-Temperatist": "TRANSLATION_HERE",
+  "Evolve temperate loving fungols.": "TRANSLATION_HERE",
+  "evolved temperate loving fungols": "TRANSLATION_HERE",
+
+  // "Fungo-Tundrist" is a made-up word, 
+  // a combination of "fungus" and "tundra" (climate) and "scientist"
+  "Fungo-Tundrist": "TRANSLATION_HERE",
+  "Evolve arid loving fungols.": "TRANSLATION_HERE",
+  "evolved arid loving fungols": "TRANSLATION_HERE",
+
+  // "Fungo-Metropolist" is a made-up word, 
+  // a combination of "fungus" and "metropolis" and "scientist",
+  // this is the reward for growing fungs on brick/stone floors
+  "Fungo-Metropolist": "TRANSLATION_HERE",
+  "Evolve urban loving fungols.": "TRANSLATION_HERE",
+  "evolved urban loving fungols": "TRANSLATION_HERE",
+
+
+
+
+   //  * *   * * *  *   *  *  * * *  *   *  * * *  *   *  * * *   *  *  * * *  * * *  
+
+
+
+
+  "Walk": "TRANSLATION_HERE",
+  "Grab": "TRANSLATION_HERE",
+  "Current Task": "TRANSLATION_HERE",
+  "OK": "TRANSLATION_HERE",
+  "<h3>Welcome Conservator, thank you for offering to help with this important task!</h3> You have been provided with one or more <b>animatroids to care for</b>. Your primary goal is to <b>protect these animatroids</b> so they can safely live and reproduce and hopefully evolve into new species. <br><br>Before we begin, take a second to observe your surroundings and <b>the tools you have available</b>. <tip>You can pause the game at any time by pressing the <b>pause button</b> in your toolbar. You can also re-read these notes in your notepad by pressing the <b>notepad button</b> in the toolbar.</tip>": "TRANSLATION_HERE",
+  "Care for these anims, got it!": "TRANSLATION_HERE",
+
+  // Haywire here is meant to subtly imply that the zombitons are actually robots or androids that are malfunctioning and crazy.
+  "<h3>Stretch your legs and try walking around a bit.</h3> You will be running around this island a lot, so get that blood flowing! Be careful though, there are some haywire crazies prowling around that you should steer clear of for now.<tip>Swipe in the direction you want to move or press the <b>WASD keys</b> or the <b>arrow keys</b>. Or you could select the <b>jogger tool</b> in your inventory and then <b>tap or click</b> on any location to jog over to it.</tip>": "TRANSLATION_HERE",
+  "Previous Tasks": "TRANSLATION_HERE",
+  "Notepad": "TRANSLATION_HERE",
+  "Population": "TRANSLATION_HERE",
+  "Tasks": "TRANSLATION_HERE",
+  "Badges": "TRANSLATION_HERE",
+  "score": "TRANSLATION_HERE",
+  "progenitors": "TRANSLATION_HERE",
+  "living species": "TRANSLATION_HERE",
+  "extinctions": "TRANSLATION_HERE",
+  "efficiency": "TRANSLATION_HERE",
+  "Population and Species Report": "TRANSLATION_HERE",
+  "Species History": "TRANSLATION_HERE",
+  "No badges yet, you must be new here.": "TRANSLATION_HERE",
+  "Doesn't that feel better?": "TRANSLATION_HERE",
+  "Much.": "TRANSLATION_HERE",
+
+  "<h3>Push your animatroid carrier so that it's close to water and fungols.</h3> Be careful! Don't push it over fungols, you'll crush them. <tip>Select the <b>hand tool</b> in your inventory, then <b>tap on the carrier</b> to highlight it, and <b>walk into the carrier</b> to push it.<br><br>A quick way to temporarily select the hand tool using a keyboard is to hold the <b>left shift key</b> down.</tip>": "TRANSLATION_HERE",
+
+  "That's good enough.": "TRANSLATION_HERE",
+  "I agree.": "TRANSLATION_HERE",
+
+  "<h3>Open your animatroid carrier and release the animatroid to the wild.</h3> Opening those carriers can be tricky, let's make sure you know how. <tip>With the <b>hand tool</b> selected, <b>tap</b> once on the carrier to highlight it, then <b>tap</b> on the carrier a second time to open it.</tip>": "TRANSLATION_HERE",
+
+  "<h2>You have been infected!</h2> <p> Since this is your first time, you will get over it pretty quickly. Be careful, it will become increasingly harder to shrug off these effects.</p> <p>Breed some <b>red fungols</b> and make some <b>cola</b> for an instant cure. You will have to dig up a bottle first. Grab a shovel and start digging.</p>": "TRANSLATION_HERE",
+  "Help": "TRANSLATION_HERE",
+
+  // as in number of parents a creature has
+  "generation": "TRANSLATION_HERE",
+  // the number of children a fungol or an animatroid has had
+  "offspring": "TRANSLATION_HERE",
+  // the number of spore/seeds a fungol has thrown out, 
+  // but not all of them will survive to grow into child fungs 
+  // (depending on where the spores land)
+  "dispersed": "TRANSLATION_HERE",
+
+  "happy": "TRANSLATION_HERE",
+  "mood": "TRANSLATION_HERE",
+
+
+  "Name this creature": "TRANSLATION_HERE",
+  "Great! Now you have a new animatroid to take care of. You will have to make sure it has access to plenty of food and water.": "TRANSLATION_HERE",
+  "Definitely.": "TRANSLATION_HERE",
+  "<h3>Plant some fungols near your animatroids.</h3> You'll need to spread the fungols around. Some will do better near water, while others will prefer a drier environment. <b>Fungols will do best on the same type of terrain that you harvested them from.</b> <tip>Select any <b>fungol collection</b> in your inventory and then <b>tap</b> on any empty location or press the <b>spacebar</b>.</tip>": "TRANSLATION_HERE",
+  "<h3>Harvest some fungols.</h3> The animatroids that you are taking care of eat fungols as their primary source of food, and some of those animatroids will need <i>a lot</i> of food. <tip>Select the <b>hand tool</b> in your inventory and then <b>tap</b> once on a fungol to highlight it, then <b>tap</b> on the fungol a second time to walk over and pick it. Or press the <b>spacebar</b> when you are standing on top of a fungol.</tip>": "TRANSLATION_HERE",
+  "Nice one. Grab some more.": "TRANSLATION_HERE",
+  "Sure.": "TRANSLATION_HERE",
+  "That looks good. We can use those samples you just picked to propagate more fungols.": "TRANSLATION_HERE",
+  "Perfect! Plant some more just to be safe.": "TRANSLATION_HERE",
+  "Sure thing.": "TRANSLATION_HERE",
+  "OK, now it's time to make some tools.": "TRANSLATION_HERE",
+  "Ready.": "TRANSLATION_HERE",
+  "<h3>Let's start crafting.</h3> You can craft many useful items to help you on this island. Most items need plenty of raw materials from fungols and soil. Getting fungols is easy, you can just pick some with your hands. Getting enough soil requires a shovel. Next we'll craft some fiberoyd boards that can be used to make a small shovel. <tip>Press the <b>wrench button</b> in the toolbar to open the <b>craft window</b>. <br><br>Long press an item or hover over it to show a tool-tip with more info.</tip>": "TRANSLATION_HERE",
+  "OK, I'll make sure I have enough fungols first.": "TRANSLATION_HERE",
+  "<h3>Craft some fiberoyd boards.</h3> Fiberoyd boards can be used as ingredients for other items. They can also be placed on the ground to build <b>fences</b>. You'll have to <b>make two fiberoyd boards</b> for a small shovel. <tip>Drag some fungols from your inventory into the first and second slots at the <b>bottom of the craft window</b>. <p/> You can <b>split a collection</b> in half by using a <b>double-tap and drag</b> gesture (quickly tap-and-release and then tap-and-drag) or by holding down the <b>shift</b> key and then dragging the collection to a new slot. <br><br> When you have enough ingredients you can press the <b>arrow button</b> to craft your fiberoyd.</tip>": "TRANSLATION_HERE",
+  "Now you have enough fiberoyd to make your shovel.": "TRANSLATION_HERE",
+  "Great.": "TRANSLATION_HERE",
+  "<h3>Make a trowel.</h3> A trowel is a handy little shovel that you will need so you can dig up lots of soil to use in more recipes.<tip>Some items in your inventory are <b>piles</b>, or <b>collections</b>, like fungols and soil. You can stack many in one slot. Others are bigger tools, like the trowel, that don't stack.</tip>": "TRANSLATION_HERE",
+  "OK, I'll make a trowel now.": "TRANSLATION_HERE",
+  "Good job, crafting is a little tricky. That's a nice shovel.": "TRANSLATION_HERE",
+  "It's a trowel.": "TRANSLATION_HERE",
+  "<h3>Dig up some soil.</h3> Soil can be used to make many useful items in this world. Now that you have a shovel, dig up a bunch of soil so we can start making some walls and floors. <tip>Select the <b>shovel</b> in your inventory and then <b>tap</b> anywhere on the ground to walk over and dig at that spot, or press the <b>spacebar</b> to dig in place. <b>You can dig in shallow water too.</b></tip>": "TRANSLATION_HERE",
+  "Got it.": "TRANSLATION_HERE",
+  "Keep going, we want a lot.": "TRANSLATION_HERE",
+  "Great. Now we need to turn that mineryte soil into mineryte blocks.": "TRANSLATION_HERE",
+  "<h3>Craft some mineryte blocks.</h3> Mineryte blocks can be placed on the ground to build walls. You can also use them to craft other items, like floors. <tip>Drag some <b>soil</b> from your inventory into the first and second slots at the <b>bottom of the craft window</b>. <p/> Remember, you can <b>split a collection</b> in half by using a <b>double-tap and drag</b> gesture (quickly tap-and-release and then tap-and-drag), or by holding down the <b>shift</b> key and then dragging the collection to a new slot. <br><br> When you have enough ingredients you can press the <b>arrow button</b> to craft your mineryte.</tip>": "TRANSLATION_HERE",
+  "That's good. Now let's start building.": "TRANSLATION_HERE",
+  "<h3>Build some stone walls.</h3> Mineryte stone walls are useful for separating species or keeping zombitons at bay. Zombitons are also attracted to stone structures, which can help keep them out of your way. <tip>Select any <b>mineryte block collection</b> in your inventory and then <b>tap</b> on any empty location to build a wall on the ground, or press the <b>spacebar</b> to build a wall on the ground where you are standing.</tip>": "TRANSLATION_HERE",
+  "Perfect! Build a few more.": "TRANSLATION_HERE",
+  "Good. Next we'll add some floors.": "TRANSLATION_HERE",
+  "<h3>Craft some stone floor blocks.</h3> Mineryte blocks can be crafted into stone floor blocks. <tip>Drag some <b>mineryte blocks</b> from your inventory into the first slot at the <b>bottom of the craft window</b>. It must be the first slot, the order of ingredients matters.</tip>": "TRANSLATION_HERE",
+  "OK, I'll make sure I have enough mineryte blocks first.": "TRANSLATION_HERE",
+  "Now let's put down some floors.": "TRANSLATION_HERE",
+  "<h3>Lay down some stone flooring.</h3> Stone floors are what really, really attract zombitons. Zombs will even fight each other over a favorite patch of stone floor. <tip>Select any <b>stone floor collection</b> in your inventory and then <b>tap</b> on any empty location, or press the <b>spacebar</b>.</tip>": "TRANSLATION_HERE",
+  "Perfect! Put down a few more.": "TRANSLATION_HERE",
+  "That's good for now.": "TRANSLATION_HERE",
+  "<h3>Create a garden.</h3> The best way to ensure that fungols grow is to create a garden. It's easy! Just dig a hole with a shovel and plant a fungol in it. <b>The trowel is the best shovel to use for gardening.</b> Bigger shovels may dig too deep. <tip>Use a shovel to <b>dig a hole and plant a fungol in it</b>. Any fungol can grow in a garden, regardless of what habitat it came from.</tip>": "TRANSLATION_HERE",
+  "Great, now plant a fungol in it!": "TRANSLATION_HERE",
+  "You've got the hang of it.": "TRANSLATION_HERE",
+  "Gardening is so relaxing.": "TRANSLATION_HERE",
+  "<h3>Now you are ready to continue on your own.</h3> Try <b>Analyzing</b> animatroids and fungols using your <b>microscope</b>. <br><br><b>Pave roads</b> to help speed your travel around the island. <br><br>You can also use some of the larger tools to <b>protect yourself</b> from zombitons when they get a bit aggro. <br><br><b>Craft and build</b> different types of <b>walls and fences</b>. If you need to, you can smash them down with a <b>hammer</b>.<br><br> Zombitons hate water, so <b>digging rivers</b> might be pretty helpful. (Try the Super Shovel.) <br><br> You can make new <b>islands</b> to isolate different species. <br><br> There's also <b>cola</b> and <b>buried treasure</b> (mostly junk) and <b>toxic waste</b> and more. <br><br>You get the idea, good luck! <tip>Remember, you can review all of these tasks in your <b>notepad</b>.</tip>": "TRANSLATION_HERE",
+  "Thanks for all the help.": "TRANSLATION_HERE",
+  "That was easy!": "TRANSLATION_HERE",
+  "Thanks.": "TRANSLATION_HERE",
+  "Astounding!": "TRANSLATION_HERE",
+  "Radical!": "TRANSLATION_HERE",
+  "Truly.": "TRANSLATION_HERE",
+  "Thank you!": "TRANSLATION_HERE",
+  "Save Game Now": "TRANSLATION_HERE",
+  "Save Game As...": "TRANSLATION_HERE",
+  "Load Game...": "TRANSLATION_HERE",
+  "Export/Import...": "TRANSLATION_HERE",
+  "New Game...": "TRANSLATION_HERE",
+  "Delete the existing save game known as <b>\"%s\"</b>, are you certain?": "TRANSLATION_HERE",
+  "Delete It": "TRANSLATION_HERE",
+  "Save Game": "TRANSLATION_HERE",
+  "Write a new name or select an existing name to create a record of the present state of the world as it exists now.": "TRANSLATION_HERE",
+  "Save": "TRANSLATION_HERE",
+  "<b>Copy</b> to export, or <b>Paste</b> to import:": "TRANSLATION_HERE",
+  "Update!": "TRANSLATION_HERE",
+  "Send diagnostics and error reports": "TRANSLATION_HERE",
+  "width": "TRANSLATION_HERE",
+  "height": "TRANSLATION_HERE",
+  "Overwrite the existing save game, are you certain?": "TRANSLATION_HERE",
+  "Overwrite": "TRANSLATION_HERE",
+  "Those settings don't seem to work. They should look more like this:": "TRANSLATION_HERE",
+  "Sorry, failed to load the save game!": "TRANSLATION_HERE",
+  "red, orange, yellow, green, blue, purple, any color": "TRANSLATION_HERE",
+  "Hi-Fi Color FX": "TRANSLATION_HERE",
+
+  "Do you want to save the current game?": "TRANSLATION_HERE",
+  "Save as...": "TRANSLATION_HERE",
+  "Don't save": "TRANSLATION_HERE",
+  "sick, hungry, thirsty, wet, tired, happy": "TRANSLATION_HERE",
+  "No current tasks, you're on your own.": "TRANSLATION_HERE",
+  "Check for updates on app start": "TRANSLATION_HERE",
+  "Unknown Specimen": "TRANSLATION_HERE",
+  "Phylogenetic Tree": "TRANSLATION_HERE",
+  "Read": "TRANSLATION_HERE",
+  "Make a little bit more, you will want at least ten.": "TRANSLATION_HERE",
+  "Great, now plant a fungus in it!": "TRANSLATION_HERE",
+
+  "Are you really truly of the mindset to exit out of this game of Vilmonic?": "TRANSLATION_HERE",
+  "Yes, please exit.": "TRANSLATION_HERE",
+  "Don't exit.": "TRANSLATION_HERE",
+  "<h3>There's a new version of Vilmonic available!</h3> The new version is %s, you have version %s. <b>Do you want to update?</b><p></p>": "TRANSLATION_HERE",
+  "Get the new version...": "TRANSLATION_HERE",
+  "Later": "TRANSLATION_HERE",
+  "Vilmonic could not connect with Steam. <br><br>Try launching Vilmonic again from within Steam.": "TRANSLATION_HERE",
+
+  // unused
+  "dispersal": "TRANSLATION_HERE",
+  "Oh wait, keep it.": "TRANSLATION_HERE",
+}

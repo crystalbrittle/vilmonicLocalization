@@ -1,0 +1,48 @@
+== == == == == == == == == == == == == == == == == ==
+LONG DESCRIPTION
+== == == == == == == == == == == == == == == == == ==
+
+
+<h2>Vilmonic is a <i>living virtual world</i>. Your goal is to bring life back from the brink of extinction.</h2>
+
+Protect and breed unique pixel-art life forms whose pixels and color have meaning. Experiment with natural and artificial selection. Craft tools, construct buildings and change the environment. Uncover the secrets of the past as you dig up ancient tech and fend off the mindless haywire zombitons. 
+
+<img>{STEAM_APP_IMAGE}/extras/creaturesAnimated.gif.png</img>
+
+<i>Don't be fooled by the SUPER CUTE look, Vilmonic is a deep and complex ARTIFICIAL LIFE SIMULATOR!</i>
+
+<h2>Evolving genetic code generates each creature's pixel-art body.</h2>
+The shape, or morphology, of each animatroid or fungol is determined by its genes. Genes control the bending of internal <i>bones</i> or <i>branches</i>. Pixels cover the bones to create the shape of the body. The shape of the body and the number of different pixels determine the <i>physiology</i> of the life form.
+
+<h2>Pixels and body shape determine biological function: <i>hydration, nutrient use, movement, perception...</i></h2>
+Each life form has a metabolism that processes <i>hydration</i> and <i>nutrients</i> at a rate determined by the <i>metabo</i> gene. The larger the life form (the more pixels in its body), the more hydration and nutrients it will need each metabolic cycle. <i>Surface area</i> determines how much hydration each life form evaporates. The more wrinkled the body is, the more surface area there is.
+
+<h2>Simple graph-shaped brains create emergent behavior: <i>fear, aggression, attraction...</i></h2>
+A simple set of rules, derived from genes, controls the behavior of each animatroid. Animatroids have external sensors (<i>motion/scent/water</i>) and internal sensors (<i>hunger/stress/thirst</i>). Animatroids' brains have attraction/repulsion relationships between these sensors. It is these relationships that determine each animatroid's behavior.
+
+<h2>Natural selection and breeding are the only way to evolve your life forms - <i>unless you "cheat" with genetic engineering!</i></h2>
+Your animatroids and fungols will evolve over many generations into new species. The genetic code of each life form is passed down to its offspring during reproduction, with a chance of mutation. Evolution is a slow process. To speed things up, try crafting and drinking a lot of sugary beverages. Toxic waste can also be useful (and dangerous!) It can cause drastic mutations in offspring.
+
+<h2>Export your creatures and share them with friends!</h2>
+<img>{STEAM_APP_IMAGE}/extras/creatureCardsAnimated.gif.png</img>
+<i>fig. 1 Exported Creature Cards, don't edit that genetic code!</i>
+
+
+== == == == == == == == == == == == == == == == == ==
+SHORT DESCRIPTION max 300 characters
+== == == == == == == == == == == == == == == == == ==
+
+Vilmonic is an artificial life simulator and genetics and evolution sandbox game. Protect and breed unique pixel-art life forms where pixels and color have meaning. Craft tools and buildings and change the environment. Find ancient tech and fend off haywire zombitons. Craft Farm Breed Evolve!
+
+== == == == == == == == == == == == == == == == == ==
+SHORT DESCRIPTION max 80 characters
+== == == == == == == == == == == == == == == == == ==
+
+An artificial life and evolution sandbox where you breed pixel art life forms.
+
+== == == == == == == == == == == == == == == == == ==
+KEY WORDS
+== == == == == == == == == == == == == == == == == ==
+
+artificial life, evolution, genetics, crafting, sandbox, breeding, pets, farming, environment, science
+
